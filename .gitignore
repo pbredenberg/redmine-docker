@@ -14,6 +14,3 @@ redmine_data/Gemfile.lock
 redmine_data/Gemfile.local
 
 mariadb_data/*
-!mariadb_data/*.sql
-!/data/.gitkeep
-!/data/db/*.sql
